@@ -43,7 +43,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 -----------------------------------------------------------------------*/
 
 html { height: 100%; background-color: #fff; overflow: hidden; -webkit-overflow-scrolling: touch;}
-body { font-family: 'Open Sans', sans-serif; font-weight: normal; font-style: normal; font-size: 14px; line-height: 24px; color: #777777; overflow: scroll; -webkit-overflow-scrolling: touch; height: 100%; width: 100%; }
+body { font-family: 'Open Sans', sans-serif; font-weight: normal; font-style: normal; font-size: 14px; line-height: 24px; color: #777777; overflow: hidden; -webkit-overflow-scrolling: touch; height: 100%; width: 100%; }
 body .main-container { background-color: #fff; height: calc(100% - 0px); height: -webkit-calc(100% - 0px); height: -moz-calc(100% - 0px); position: relative; z-index: 3; }
 body .wrapper { position: relative; height: 100%; width: 100%; }
 a, .button { transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out; color: #333333; }
